@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prettier": "^2.8.1"
+  },
+  "name": "ppp",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "prettier ./input.json > ./output.json"
+  },
+  "keywords": [],
+  "author": "zhangkaiyan.3 <zhangkaiyan.3@bytedance.com>",
+  "license": "ISC",
+  "description": ""
+}
